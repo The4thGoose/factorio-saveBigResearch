@@ -1,0 +1,9 @@
+{
+    "name": "saveBigScience",
+    "version": "0.0.1",
+    "title": "Menards Jingle Research Sound Replacer",
+    "author": "The4thGoose",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Replaces the research complete sound with the Save Big Money at Menards Jingle."
+  }

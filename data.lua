@@ -1,0 +1,1 @@
+data.raw["utility-sounds"].default["research_completed"].filename = "__saveBigScience__/research-completed.ogg"
